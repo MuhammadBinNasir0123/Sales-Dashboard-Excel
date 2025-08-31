@@ -63,9 +63,9 @@ This dashboard enables:
 
 ---
 
-## 💡 Notes  
+## 📂 Project Structure  
 
-- Fully interactive in Excel (no add-ons required)  
-- Clean, beginner-friendly design with business usability in mind  
-- Can be adapted to **any sales dataset**  
-
+```bash
+├── LICENSE
+├── README.md
+├── Sales Dashboard.xlsx   # Main interactive Excel dashboard
