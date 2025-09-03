@@ -66,6 +66,6 @@ This dashboard enables:
 ##  Project Structure  
 
 ```bash
-├── LICENSE
-├── README.md
+├── LICENSE                #License file
+├── README.md              #Project Documentation
 ├── Sales Dashboard.xlsx   # Main interactive Excel dashboard
