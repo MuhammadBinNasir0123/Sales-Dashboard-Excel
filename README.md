@@ -1,34 +1,34 @@
-# 📊 Sales Dashboard in Excel  
+#  Sales Dashboard in Excel  
 
 An interactive Excel dashboard that provides a **clear snapshot of business performance** and transforms raw sales data into **actionable insights**.  
 
 ---
 
-## 🚀 Project Overview  
+##  Project Overview  
 This project demonstrates how raw transactional data can be turned into a **dynamic dashboard** using Excel. The dashboard includes KPIs, slicers, and visuals that allow users to interactively explore business performance across multiple dimensions.  
 
 ---
 
-## ✨ Features  
+##  Features  
 
 - **KPIs:**  
-  - Total Sales 💰  
-  - Total Orders 🛒  
-  - Average Order Value 📈  
+  - Total Sales  
+  - Total Orders   
+  - Average Order Value  
 
 - **Slicers:**  
-  - Category 🏷️  
-  - Region 🌍  
-  - Segment 👥  
+  - Category 
+  - Region   
+  - Segment   
 
 - **Charts & Visuals:**  
-  - Sales by Top Cities 🏙️  
-  - Sales by Segment 📊  
-  - Monthly Sales Trends 📅  
+  - Sales by Top Cities   
+  - Sales by Segment   
+  - Monthly Sales Trends   
 
 ---
 
-## 📊 Visualizations Created  
+##  Visualizations Created  
 - **KPI Cards** → Quick snapshot of Total Sales, Orders, and AOV  
 - **Sales by Top Cities** → Bar chart of best-performing cities  
 - **Sales by Segment** → Vertical bar chart comparing customer segments  
@@ -37,7 +37,7 @@ This project demonstrates how raw transactional data can be turned into a **dyna
 
 ---
 
-## 🎯 Key Benefits  
+##  Key Benefits  
 
 - Spot **top-performing markets and segments** in seconds  
 - Track **monthly sales patterns** effortlessly  
@@ -46,7 +46,7 @@ This project demonstrates how raw transactional data can be turned into a **dyna
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated  
+##  Tools & Skills Demonstrated  
 
 - **Excel**: Pivot Tables, Pivot Charts, Slicers  
 - **Data Visualization**: Business KPIs & Trend Analysis  
@@ -54,7 +54,7 @@ This project demonstrates how raw transactional data can be turned into a **dyna
 
 ---
 
-## 🎯 Business Impact  
+##  Business Impact  
 This dashboard enables:  
 - Faster **sales performance reviews**  
 - Easy **comparison of categories, regions, and segments**  
@@ -63,7 +63,7 @@ This dashboard enables:
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```bash
 ├── LICENSE
